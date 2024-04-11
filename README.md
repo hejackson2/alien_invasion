@@ -15,3 +15,12 @@ Simply run python3 calling the alien_invasion.py program:
 
 ```
 python alien_invasion.py
+```
+
+## Game Control
+| Key | Control |
+| --- | ------- |
+| left arrow | move ship left |
+| right arrow | move ship right |
+| space bar | fire arrows |
+| Q | quit game |
