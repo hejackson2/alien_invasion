@@ -1,0 +1,7 @@
+ 2037  [2024-04-10 21:30:44] git remote add origin "https://github.com/hejackson2/alien_invasion" # wrong!
+ 2042  [2024-04-10 21:31:46] git remote -v
+ 2044  [2024-04-10 21:33:45] git config --local core.sshCommand "ssh -i ~/.ssh/<removed>"
+ 2075  [2024-04-10 21:54:19] git remote set-url origin git@github.com:hejackson2/alien_invasion
+ 2077  [2024-04-10 21:54:30] git push -u origin main
+ 2080  [2024-04-10 21:56:58] git add requirements.txt 
+ 2112  [2024-04-10 22:15:28] git push origin main
